@@ -1003,10 +1003,10 @@ Try another search.
 <div class='m-design-product-info--faq-container'>
 <div class='m-design-product-info--faqs' data-controller='rudderstack--filter-clicked' data-rudderstack--filter-clicked-location-value='pdp_faq'>
 <div class="tp-accordion" data-controller="utilities--reveal" data-utilities--reveal-hidden-class="tp-accordion__content--open" data-utilities--reveal-target="content"><button class='tp-accordion__button' data-action='click-&gt;utilities--reveal#toggle click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='faq' data-filter-option-label='What material is this item made of?' data-utilities--reveal-target='content'>
-<div class='tp-accordion__button-text'>What material is this item made of?</div>
+<div class='tp-accordion__button-text'>Apakah BOSANGKA dapat diakses melalui perangkat mobile?<div>
 <span class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90"><img src="https://assets.teepublic.com/assets/teepublicons/chevron_round-65095dd1f1baa03d093ded395b217a5a2ca9f13e816a72e5690adab871c8eebf.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 </button>
-<div class='tp-accordion__content' data-utilities--reveal-target='content'><span class='jsGarmentDescription2'>100% combed ringspun cotton. The perfect fabric for a graphic tee and the softest in the business. (Due to product availability, cotton type may vary for 2XL and 3XL sizes)</span>
+<div class='tp-accordion__content' data-utilities--reveal-target='content'><span class='jsGarmentDescription2'>Ya, website BOSANGKA dirancang dengan tampilan responsif sehingga dapat diakses dengan nyaman melalui smartphone, tablet, maupun komputer.</span>
 <a data-canvas="T-Shirt" class="link link link__cta link__cta--on-light link--default jsGarmentInfoModalShow link--1 link--default">
 <span class='link__content'>
 Learn More
@@ -1014,10 +1014,10 @@ Learn More
 </a>
 </div>
 </div><div class="tp-accordion" data-controller="utilities--reveal" data-utilities--reveal-hidden-class="tp-accordion__content--open" data-utilities--reveal-target="content"><button class='tp-accordion__button' data-action='click-&gt;utilities--reveal#toggle click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='faq' data-filter-option-label='What is the Return/Exchange policy?' data-utilities--reveal-target='content'>
-<div class='tp-accordion__button-text'>What is the Return/Exchange policy?</div>
+<div class='tp-accordion__button-text'>Bagaimana cara menghubungi layanan pelanggan BOSANGKA?</div>
 <span class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90"><img src="https://assets.teepublic.com/assets/teepublicons/chevron_round-65095dd1f1baa03d093ded395b217a5a2ca9f13e816a72e5690adab871c8eebf.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 </button>
-<div class='tp-accordion__content' data-utilities--reveal-target='content'><p>We want you to love your order! If for any reason you don't, let us&#32;know and we’ll make things right.<a href=#### class='link link__cta link__cta--on-light link--default' target='_blank'><span class='link__content'>Learn&nbsp;More</span></a></p>
+<div class='tp-accordion__content' data-utilities--reveal-target='content'><p>Pengguna dapat menghubungi layanan pelanggan melalui kanal kontak resmi yang tersedia di website untuk mendapatkan bantuan terkait akun atau kendala teknis.<a href=#### class='link link__cta link__cta--on-light link--default' target='_blank'><span class='link__content'>Learn&nbsp;More</span></a></p>
 
 </div>
 </div></div>
