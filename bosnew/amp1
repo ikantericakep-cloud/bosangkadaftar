@@ -1,909 +1,475 @@
+
 <!DOCTYPE html>
 <html amp lang="id">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,maximum-scale=1">
-    <meta http-equiv="content-language" content="id">
-    <link rel="canonical" href="###">
-    <link rel="alternate" hreflang="id" href="###"/>
-    <title>BOSANGKA ༄ Wahana Togel Online Resmi dengan Fitur & Akses Terkini</title>
-    <meta name="description" content="BOSANGKA menghadirkan wahana togel online dengan fitur modern dan akses terkini. Temukan informasi lengkap, navigasi praktis, serta pembaruan layanan dalam satu platform.">
-    <meta name="robots" content="index, follow">
-    <meta content="true" name="HandheldFriendly">
-    <meta content="width" name="MobileOptimized">
-    <meta property="og:title" content="BOSANGKA ༄ Wahana Togel Online Resmi dengan Fitur & Akses Terkini">
-    <meta property="og:description" content="BOSANGKA menghadirkan wahana togel online dengan fitur modern dan akses terkini. Temukan informasi lengkap, navigasi praktis, serta pembaruan layanan dalam satu platform.">
-    <meta property="og:url" content="###">
-    <meta property="og:site_name" content="BOSANGKA">
-    <meta name="geo.country" content="ID"/>
-    <meta name="geo.region" content="ID"/>
-    <meta name="language" content="ID">
-    <meta name="og:locale" content="ID_id"/>
-    <meta name="page-locale" content="id">
-    <meta property="og:author" content="BOSANGKA">
-    <meta property="og:image" content="https://gambarbos.io/img/2026/agustus/25/bosangkapurple.webp">
-    <meta name="og:locale" content="ID_id">
-    <meta name="og:type" content="website">
-    <meta name="rating" content="general">
-    <meta name="author" content="BOSANGKA">
-    <meta name="distribution" content="global">
-    <meta name="publisher" content="BOSANGKA">
-    <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <link rel="icon" type="/img/png" href="https://gambarbos.io/img/2026/agustus/24/iconkuda.webp">
-    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap">
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>BOSANGKA ༄ Wahana Togel Online Resmi dengan Fitur & Akses Terkini</title>
+  <meta name="description" content="BOSANGKA menghadirkan wahana togel online dengan fitur modern dan akses terkini. Temukan informasi lengkap, navigasi praktis, serta pembaruan layanan dalam satu platform.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href=###">
+  <link rel="icon" href="https://gambarbos.io/img/2026/agustus/24/iconkuda.webp" type="image/x-icon">
+  <link rel="alternate" href=###" hreflang="id">
+  <link rel="preload" as="image" href="https://gambarbos.io/img/2026/agustus/25/bosangkapurple.webp">
+  <script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "WebSite",
-      "@id": "####website",
-      "url": "###",
-      "name": "BOSANGKA",
-      "description": "BOSANGKA menghadirkan wahana togel online dengan fitur modern dan akses terkini. Temukan informasi lengkap, navigasi praktis, serta pembaruan layanan dalam satu platform.",
-      "publisher": {
-        "@id": "####organization"
-      }
-    },
-    {
-      "@type": ["WebPage", "FAQPage"],
-      "@id": "####webpage",
-      "url": "###",
-      "name": "BOSANGKA ༄ Wahana Togel Online Resmi dengan Fitur & Akses Terkini",
-      "isPartOf": {
-        "@id": "####website"
-      },
-      "about": {
-        "@id": "####product"
-      },
-      "description": "BOSANGKA menghadirkan wahana togel online dengan fitur modern dan akses terkini. Temukan informasi lengkap, navigasi praktis, serta pembaruan layanan dalam satu platform.",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Apa itu BOSANGKA dan apa yang ditawarkan?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "BOSANGKA merupakan platform yang menyediakan informasi dan akses terkait layanan togel online dalam satu halaman yang terstruktur, dengan fokus pada kemudahan navigasi dan pembaruan informasi."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Apa saja pasaran togel yang tersedia di BOSANGKA?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Informasi mengenai pasaran yang tersedia dapat ditemukan melalui bagian layanan BOSANGKA. Ketersediaan pasaran dan detailnya dapat mengikuti pembaruan yang ditampilkan pada platform."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Apa yang dimaksud dengan fitur terkini di BOSANGKA?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Fitur terkini merujuk pada pembaruan yang ditambahkan untuk membantu pengguna menjelajahi informasi, menu, dan layanan dengan lebih praktis."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Bagaimana cara mengakses BOSANGKA?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": Pengguna dapat mengakses BOSANGKA melalui alamat halaman yang tersedia dan mengikuti navigasi yang disediakan untuk menemukan informasi atau layanan yang dibutuhkan."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Apakah BOSANGKA menyediakan akses alternatif?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Jika tersedia, informasi mengenai akses alternatif dapat ditampilkan melalui halaman atau kanal informasi resmi BOSANGKA agar pengguna memperoleh alamat akses yang paling mutakhir."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Apakah BOSANGKA bisa dibuka melalui smartphone?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Ya, halaman BOSANGKA dirancang agar dapat ditampilkan pada perangkat mobile maupun desktop sehingga navigasi tetap mudah digunakan pada berbagai ukuran layar."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Bagaimana cara menemukan informasi togel terbaru di BOSANGKA?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Pengguna dapat melihat bagian informasi atau menu terkait yang tersedia pada halaman BOSANGKA untuk memperoleh pembaruan sesuai dengan layanan yang ditampilkan."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Apa keunggulan fitur navigasi BOSANGKA?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Navigasi BOSANGKA disusun untuk memudahkan pengguna menemukan menu dan informasi terkait tanpa harus melewati struktur halaman yang terlalu kompleks."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Apakah informasi di BOSANGKA diperbarui secara berkala?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Informasi dan fitur pada platform dapat diperbarui mengikuti kebutuhan layanan. Pengguna sebaiknya mengacu pada informasi terbaru yang ditampilkan pada halaman BOSANGKA"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Mengapa BOSANGKA menggunakan konsep “Wahana Togel Online”?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Istilah tersebut menggambarkan konsep BOSANGKA sebagai satu ruang akses yang menggabungkan informasi, fitur, dan navigasi terkait layanan togel online dalam struktur halaman yang lebih praktis."
-          }
-        }
-      ]
-    },
-    {
-      "@type": "Organization",
-      "@id": "####organization",
-      "name": "BOSANGKA Gaming Group",
-      "alternateName": ["BOSANGKA", "BOS ANGKA", "BOSANGKA Official"],
-      "description": "BOSANGKA adalah official situs toto togel Macau edisi terbaru yang menawarkan layanan hiburan tebak angka dengan diskon terbesar dan keamanan terjamin di Indonesia.",
-      "url": "###",
-      "logo": {
-        "@type": "ImageObject",
-        "@id": "####logo",
-        "url": "https://gambarbos.io/img/2026/agustus/25/logo.png",
-        "caption": "BOSANGKA Official Logo",
-        "width": "250",
-        "height": "60"
-      },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+62-812-9988-3411",
-        "contactType": "customer support",
-        "email": "support@BOSANGKA.com",
-        "availableLanguage": ["Indonesian", "English"],
-        "areaServed": "ID",
-        "contactOption": "TollFree"
-      },
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Menara Prima Lt. 12, Kawasan Mega Kuningan Blok M3.9",
-        "addressLocality": "Jakarta Selatan",
-        "addressRegion": "DKI Jakarta",
-        "postalCode": "12950",
-        "addressCountry": "ID"
-      },
-      "sameAs": [
-        "https://www.facebook.com/BOSANGKAofficial",
-        "https://twitter.com/BOSANGKA",
-        "https://www.instagram.com/BOSANGKA.official"
-      ]
-    },
-    {
-      "@type": "Product",
-      "@id": "####product",
-      "brand": {
-        "@type": "Brand",
-        "name": "BOSANGKA Macau Official"
-      },
-      "name": "Situs Toto Togel Macau - BOSANGKA",
-      "description": "Akses masuk alternatif ke server permainan angka Macau terlengkap dengan fitur update live result tercepat dan proteksi data akun maksimal.",
-      "image": [
-        "https://gambarbos.io/img/2026/agustus/25/bosangkapurple.webp"
-      ],
-      "category": "Amusement and Gaming Service",
-      "sku": "BOSANGKA-MACAU-2026",
-      "gtin13": "8995123400987",
-      "offers": {
-        "@type": "Offer",
-        "url": "###",
-        "priceCurrency": "IDR",
-        "price": "5000",
-        "priceValidUntil": "2027-12-31",
-        "availability": "https://schema.org/InStock",
-        "seller": {
-          "@id": "####organization"
-        }
-      }
-    }
+  "@type": "Organization",
+  "@id": ####organization",
+  "name": "BOSANGKA",
+  "url": ###",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://gambarbos.io/img/2026/agustus/25/logo.png"
+  },
+  "sameAs": [
+    "https://www.facebook.com/BOSANGKA",
+    "https://www.twitter.com/BOSANGKA",
+    "https://instagram.com/BOSANGKA"
   ]
 }
 </script>
+  <style amp-boilerplate>
+    body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}
+    @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+  </style>
+  <noscript>
+    <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style>
+  </noscript>
 
-
- <style amp-boilerplate>
-        body {
-            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            animation: -amp-start 8s steps(1, end) 0s 1 normal both
-        }
-
-        @-webkit-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-
-            to {
-                visibility: visible
-            }
-        }
-
-        @-moz-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-
-            to {
-                visibility: visible
-            }
-        }
-
-        @-ms-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-
-            to {
-                visibility: visible
-            }
-        }
-
-        @-o-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-
-            to {
-                visibility: visible
-            }
-        }
-
-        @keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-
-            to {
-                visibility: visible
-            }
-        }
-    </style>
-    <noscript>
-        <style amp-boilerplate>
-            body {
-                -webkit-animation: none;
-                -moz-animation: none;
-                -ms-animation: none;
-                animation: none
-            }
-        </style>
-    </noscript>
-    <style amp-custom>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0
-        }
-
-        :focus {
-            outline: 0
-        }
-
-        ::-webkit-scrollbar {
-            display: none
-        }
-
-        a,
-        a:after,
-        a:hover,
-        a:visited {
-            text-decoration: none;
-            color: #fff
-        }
-
-        html {
-            max-width: 500px;
-            margin: 0 auto;
-            background:#07030f;
-            background-size: 100%;
-            background-attachment: fixed;
-        }
-
-        body {
-            color: #fff;
-            font-family: 'Noto Sans', arial, sans-serif
-        }
-
-        .slot-online{
-            display: grid;
-            justify-content: center;
-            padding: 10px;
-        }
-
-        .toto-togel-macau-BOSANGKA {
-            text-align: center;
-        }
-
-        .slotbonus {
-            display: grid;
-        }
-
-        .slotbonus .contole {
-            padding: .5rem 3.8rem;
-            background: #33333388;
-            margin-bottom: .5rem;
-            border-radius: .38rem;
-            box-shadow: 0 -1px #ccb38a88;
-            letter-spacing: 1px
-        }
-
-        .slotbonus a.btn1 {
-            color: #eee;
-            background-image: linear-gradient(-45deg, #8b3dff 0, #5d1fd1 100%);
-            box-shadow: none;
-            font-weight: 700
-        }
-
-        .slotbonus-container {
-            display: flex;
-            background: linear-gradient(-45deg, #8b3dff 0, #5d1fd1 100%);
-            width: 250px;
-            height: 40px;
-            align-items: center;
-            justify-content: space-around;
-            border-radius: 10px;
-        }
-
-        .slot-online {
-            outline: 0;
-            border: 0;
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            background-color: transparent;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #fff;
-            transition: all ease-in-out .3s;
-            cursor: pointer
-        }
-
-        .slot-online:hover {
-            transform: translateY(-3px)
-        }
-
-        .btn2 {
-    margin-bottom: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    overflow: hidden;
-    height: 3rem;
-    background-size: 300% 300%;
-    backdrop-filter: blur(1rem);
-    border-radius: 0.62rem;
-    transition: .5s;
-    animation: gradient_301 5s ease infinite;
-    border: double 4px transparent;
-    
-    /* Gradasi Layer 1: Background Dalam (Hijau Tua) */
-    /* Gradasi Layer 2: Animasi Border (Spektrum Hijau: Mint, Emerald, Daun, dan Forest Green) */
-    background-image: linear-gradient(#2a1147, #2a1147), 
-                      linear-gradient(137.48deg, 
-                        #f2e8ff 10%, 
-                        #7b2cff 45%, 
-                        #b56cff 67%, 
-                        #12051f 87%);
-                        
-    background-origin: border-box;
-    background-clip: content-box, border-box;
+  <style amp-custom>
+:root{
+  --purple-950:#12001f;
+  --purple-900:#1f0038;
+  --purple-800:#31005b;
+  --purple-700:#4a0782;
+  --purple-600:#6f19b5;
+  --purple-500:#8d34d9;
+  --purple-400:#b463f2;
+  --purple-300:#d7a2ff;
+  --purple-200:#edd5ff;
+  --white:#ffffff;
+  --ink:#16051f;
 }
 
-        #container-stars {
-            position: absolute;
-            z-index: -1;
-            width: 100%;
-            height: 100%;
-            overflow: hidden;
-            transition: .5s;
-            backdrop-filter: blur(1rem);
-            border-radius: .38rem
-        }
-
-        strong {
-            z-index: 2;
-            letter-spacing: 5px;
-            font-size: large;
-            color: #fff;
-            text-shadow: #fff
-        }
-
-        #glow {
-            position: absolute;
-            display: flex;
-            width: 12rem
-        }
-
-        .circle {
-            width: 100%;
-            height: 30px;
-            filter: blur(2rem);
-            animation: pulse_3011 4s infinite;
-            z-index: -1
-        }
-
-        .circle:nth-of-type(1) {
-    /* Mengubah dari Pink ke Hijau Medium (setara #b56cff) */
-    background: rgba(125, 185, 127, .636)
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%}
+body{
+  margin:0;
+  padding:0;
+  min-height:100vh;
+  color:var(--white);
+  font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+  background:
+    radial-gradient(circle at 12% 16%,rgba(214,151,255,.34) 0 5%,transparent 19%),
+    radial-gradient(circle at 88% 18%,rgba(150,67,235,.30) 0 7%,transparent 24%),
+    radial-gradient(circle at 18% 88%,rgba(102,25,181,.36) 0 8%,transparent 25%),
+    linear-gradient(145deg,#170025 0%,#2a0445 38%,#4a0d78 68%,#210036 100%);
+  overflow-x:hidden;
 }
 
-.circle:nth-of-type(2) {
-    /* Mengubah dari Ungu ke Hijau Daun (setara #7b2cff) */
-    background: rgba(46, 125, 50, .704)
+body:before{
+  content:"";
+  position:fixed;
+  inset:0;
+  pointer-events:none;
+  z-index:-1;
+  opacity:.78;
+  background:
+    radial-gradient(circle at 18px 18px,rgba(255,255,255,.16) 0 3px,transparent 4px),
+    radial-gradient(circle at 58px 58px,rgba(217,158,255,.13) 0 5px,transparent 6px);
+  background-size:76px 76px;
+  animation:bgFloat 12s linear infinite;
 }
 
-.btn2:hover #container-stars {
-    z-index: 1;
-    /* Mengubah dari Merah ke Hijau Hutan Tua */
-    background-color: #2a1147
+body:after{
+  content:"";
+  position:fixed;
+  left:-18%;
+  bottom:-24%;
+  width:65vw;
+  height:65vw;
+  max-width:760px;
+  max-height:760px;
+  border-radius:50%;
+  background:radial-gradient(circle,rgba(189,106,255,.24),rgba(89,15,145,.08) 55%,transparent 70%);
+  pointer-events:none;
+  z-index:-1;
+  animation:bubbleDrift 8s ease-in-out infinite;
 }
 
-.btn2:hover {
-    transform: scale(1.1)
+@keyframes bgFloat{0%{transform:translate3d(0,0,0)}50%{transform:translate3d(-20px,18px,0)}100%{transform:translate3d(0,0,0)}}
+@keyframes bubbleDrift{0%,100%{transform:scale(.94) translateY(0)}50%{transform:scale(1.06) translateY(-18px)}}
+@keyframes shine{0%{left:-145%}55%,100%{left:145%}}
+@keyframes floatCard{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes aura{0%,100%{box-shadow:0 18px 45px rgba(19,0,34,.46),0 0 0 1px rgba(232,195,255,.12),inset 0 0 28px rgba(255,255,255,.05)}50%{box-shadow:0 22px 54px rgba(19,0,34,.52),0 0 34px rgba(172,77,238,.26),inset 0 0 34px rgba(255,255,255,.08)}}
+@keyframes headerGlow{0%{transform:translateX(-110%)}100%{transform:translateX(110%)}}
+@keyframes buttonPop{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-1px) scale(1.01)}}
+
+header{
+  display:flex;
+  width:100%;
+  height:72px;
+  justify-content:center;
+  align-items:center;
+  position:fixed;
+  top:0;
+  z-index:99;
+  overflow:hidden;
+  background:linear-gradient(180deg,rgba(64,8,101,.96),rgba(30,0,50,.97));
+  border-bottom:3px solid var(--purple-400);
+  box-shadow:0 7px 0 rgba(20,0,34,.35),0 12px 32px rgba(103,27,165,.36);
+}
+header:before{
+  content:"";
+  position:absolute;
+  inset:6px 10px auto;
+  height:2px;
+  border-radius:999px;
+  background:linear-gradient(90deg,transparent,rgba(255,255,255,.76),transparent);
+  opacity:.8;
+}
+header:after{
+  content:"";
+  position:absolute;
+  left:-100%;
+  bottom:0;
+  width:100%;
+  height:3px;
+  background:linear-gradient(90deg,transparent,var(--white),var(--purple-300),transparent);
+  animation:headerGlow 4.2s linear infinite;
 }
 
-.btn2:active {
-    /* Mengubah border dari Pink ke Hijau Terang */
-    border: double 4px #b56cff;
-    background-origin: border-box;
-    background-clip: content-box, border-box;
-    animation: none
+.mawar{
+  width:280px;
+  height:60px;
+  margin-top:2px;
+  position:relative;
+  overflow:hidden;
+  border-radius:18px;
+  padding:2px 8px;
+  background:linear-gradient(180deg,rgba(255,255,255,.12),rgba(255,255,255,.03));
+  border:1px solid rgba(231,199,255,.24);
+  box-shadow:inset 0 2px 0 rgba(255,255,255,.13);
+}
+.mawar a{display:block;position:relative;height:100%}
+.mawar a::after{
+  content:"";
+  position:absolute;
+  top:0;
+  left:-145%;
+  width:72%;
+  height:100%;
+  background:linear-gradient(120deg,transparent,rgba(255,255,255,.78),transparent);
+  transform:skewX(-20deg);
+  animation:shine 4s ease-in-out infinite;
+  pointer-events:none;
 }
 
-.btn2:active .circle {
-    /* Mengubah efek aktif dari Pink ke Hijau Emerald */
-    background: #7b2cff
+.container{
+  width:100%;
+  max-width:500px;
+  margin:86px auto 0;
+  padding:8px;
+  box-sizing:border-box;
 }
 
-        #stars {
-            position: relative;
-            background: 0 0;
-            width: 200rem;
-            height: 200rem
-        }
+.inside{
+  position:relative;
+  overflow:hidden;
+  border-radius:28px;
+  padding:10px;
+  background:
+    linear-gradient(145deg,rgba(91,19,145,.94),rgba(34,2,55,.97) 48%,rgba(74,10,119,.96)),
+    var(--purple-900);
+  border:2px solid rgba(211,150,255,.72);
+  box-shadow:0 18px 45px rgba(19,0,34,.46),inset 0 0 28px rgba(255,255,255,.05);
+  animation:aura 5s ease-in-out infinite;
+}
+.inside:before{
+  content:"";
+  position:absolute;
+  top:-70px;
+  right:-70px;
+  width:180px;
+  height:180px;
+  border-radius:50%;
+  background:radial-gradient(circle at 36% 34%,rgba(255,255,255,.34),rgba(190,103,255,.16) 36%,transparent 68%);
+  pointer-events:none;
+}
+.inside:after{
+  content:"";
+  position:absolute;
+  left:-120%;
+  top:0;
+  width:75%;
+  height:100%;
+  background:linear-gradient(110deg,transparent,rgba(255,255,255,.10),transparent);
+  transform:skewX(-18deg);
+  animation:shine 8s ease-in-out infinite;
+  pointer-events:none;
+}
 
-        #stars::after {
-            content: "";
-            position: absolute;
-            top: -10rem;
-            left: -100rem;
-            width: 100%;
-            height: 100%;
-            animation: animStarRotate 90s linear infinite
-        }
-            #faq{
-            font-size:28px;
-        }
-        @media(min-width:768px) {
-            body {
-                font-size: var(--normal-font);
+.music-box{
+  position:relative;
+  overflow:hidden;
+  text-align:center;
+  margin-bottom:15px;
+  padding:11px 14px;
+  color:var(--white);
+  font-weight:800;
+  border-radius:18px;
+  background:linear-gradient(180deg,#7e29c4,#4b0c78);
+  border:2px solid var(--purple-300);
+  box-shadow:0 7px 0 #2d0648,0 12px 24px rgba(17,0,31,.30),inset 0 2px 0 rgba(255,255,255,.30);
+  text-shadow:0 2px 0 #2b0642,0 0 10px rgba(255,255,255,.24);
+}
 
-            }
+.centerbyv{
+  margin-bottom:12px;
+  text-align:center;
+  min-height:200px;
+  overflow:hidden;
+  border-radius:22px;
+  border:2px solid rgba(220,174,255,.58);
+  background:rgba(30,0,48,.55);
+  box-shadow:0 8px 0 rgba(22,0,38,.30),inset 0 0 20px rgba(255,255,255,.05);
+}
+.centerbyv amp-img{border-radius:19px;overflow:hidden}
+.server,.server-full{width:100%;display:block}
+.se{display:flex;gap:10px;margin:7px 0}
+.se a,.server-full a{flex:1;display:block}
 
-            .container {
-                max-width: 98%;
-            }
+.eg,.eg-long,button.daftar{
+  width:100%;
+  height:56px;
+  font-size:17px;
+  cursor:pointer;
+  color:var(--white);
+  font-weight:900;
+  letter-spacing:.3px;
+  position:relative;
+  overflow:hidden;
+  box-sizing:border-box;
+  border-radius:17px;
+  border:2px solid #e3b9ff;
+  border-bottom:5px solid #3b075e;
+  background:linear-gradient(180deg,#b85cff 0%,#8730d2 45%,#61179d 100%);
+  text-shadow:0 2px 0 #431066,0 0 10px rgba(255,255,255,.20);
+  box-shadow:0 7px 0 rgba(27,0,46,.58),0 11px 22px rgba(17,0,29,.26),inset 0 2px 0 rgba(255,255,255,.38);
+  transition:transform .22s ease,box-shadow .22s ease,filter .22s ease;
+  animation:buttonPop 3.8s ease-in-out infinite;
+}
+.eg::before,.eg-long::before,button.daftar::before{
+  content:"";
+  position:absolute;
+  top:0;
+  left:-145%;
+  width:75%;
+  height:100%;
+  background:linear-gradient(120deg,transparent,rgba(255,255,255,.78),transparent);
+  transform:skewX(-20deg);
+  animation:shine 3.6s ease-in-out infinite;
+}
+.eg:hover,.eg-long:hover,button.daftar:hover{
+  transform:translateY(-3px) scale(1.015);
+  box-shadow:0 10px 0 rgba(27,0,46,.50),0 15px 30px rgba(51,7,82,.35),0 0 22px rgba(202,129,255,.35),inset 0 2px 0 rgba(255,255,255,.42);
+}
+.eg:active,.eg-long:active,button.daftar:active{
+  transform:translateY(2px);
+  border-bottom-width:2px;
+  box-shadow:0 3px 0 rgba(27,0,46,.55),0 7px 15px rgba(17,0,29,.24),inset 0 2px 0 rgba(255,255,255,.28);
+}
 
-            .site-menu {
-                width: 20%
-            }
-            .slot{
-                display:block;
-                margin:0 auto;
-                max-width:98%;
-            }
-            .slot .content{
-                float: none;
-                width: 100%;
-                padding: 0;
-                flex: 0 0 100%;
-                max-width: 100%;
-                background-color: #121212;
-                margin:0 auto;
-                align-self:center;
-                text-align:center;
-            }
-        }
+.BOSANGKA{
+  position:relative;
+  overflow:hidden;
+  margin:12px 0;
+  min-height:72px;
+  padding:10px 12px 10px 16px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:10px;
+  border-radius:20px;
+  color:var(--white);
+  background:linear-gradient(135deg,rgba(122,35,190,.96),rgba(57,8,90,.98));
+  border:2px solid rgba(222,179,255,.74);
+  box-shadow:0 7px 0 rgba(31,0,50,.48),0 12px 25px rgba(18,0,31,.25),inset 0 2px 0 rgba(255,255,255,.18);
+  animation:floatCard 4.4s ease-in-out infinite;
+}
+.BOSANGKA:before{
+  content:"";
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:16px;
+  height:16px;
+  border-radius:50%;
+  background:radial-gradient(circle at 35% 30%,#fff 0 13%,#dca9ff 15% 32%,#8b38cf 34% 100%);
+  box-shadow:20px 8px 0 -5px rgba(231,198,255,.52);
+  opacity:.85;
+}
+.BOSANGKA:after{
+  content:"";
+  position:absolute;
+  width:120px;
+  height:120px;
+  right:-46px;
+  bottom:-54px;
+  border-radius:50%;
+  background:radial-gradient(circle,rgba(212,150,255,.28),transparent 67%);
+  pointer-events:none;
+}
+.BOSANGKA span{color:var(--white);text-shadow:0 2px 0 #3d0a61}
+.middle{
+  flex:1;
+  text-align:left;
+  font-size:13px;
+  font-weight:900;
+  letter-spacing:.4px;
+  color:var(--white);
+  padding-left:18px;
+  text-shadow:0 2px 0 #350652,0 0 8px rgba(255,255,255,.16);
+  z-index:1;
+}
+.log{width:120px;z-index:1}
+.log button{
+  height:42px;
+  font-size:13px;
+  color:var(--white);
+  font-weight:900;
+  border-radius:14px;
+  border:2px solid #efd9ff;
+  border-bottom:4px solid #390958;
+  background:linear-gradient(180deg,#a846e7,#6820a0);
+  box-shadow:0 5px 0 rgba(28,0,45,.54),inset 0 2px 0 rgba(255,255,255,.30);
+  text-shadow:0 2px 0 #3d0a60;
+}
 
-        @media(min-width:1200px) {
-            .container {
-                width: 1170px
-            }
-        }
+.copyright{
+  text-align:center;
+  color:var(--white);
+  margin:30px 0;
+  padding:15px;
+  font-size:14px;
+  font-weight:700;
+  border-radius:18px;
+  background:linear-gradient(145deg,rgba(130,42,197,.55),rgba(40,3,63,.82));
+  border:2px solid rgba(211,157,255,.62);
+  box-shadow:0 6px 0 rgba(25,0,41,.36),inset 0 2px 0 rgba(255,255,255,.10);
+  text-shadow:0 2px 0 #3b075c;
+}
 
-        @media(min-width:992px) {
-            .container {
-                width: 992px
-            }
-        }
+img{max-width:100%;height:auto}
+a{color:var(--white);text-decoration:none}
 
-        #stars::after {
-            background-image: radial-gradient(#fff 1px, transparent 1%);
-            background-size: 50px 50px
-        }
-
-        #stars::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: -50%;
-            width: 170%;
-            height: 500%;
-            animation: animStar 60s linear infinite
-        }
-
-        #stars::before {
-            background-image: radial-gradient(#fff 1px, transparent 1%);
-            background-size: 50px 50px;
-            opacity: .5
-        }
-
-        @keyframes animStar {
-            from {
-                transform: translateY(0)
-            }
-
-            to {
-                transform: translateY(-135rem)
-            }
-        }
-
-        @keyframes animStarRotate {
-            from {
-                transform: rotate(360deg)
-            }
-
-            to {
-                transform: rotate(0)
-            }
-        }
-
-        @keyframes gradient_301 {
-            0% {
-                background-position: 0 50%
-            }
-
-            50% {
-                background-position: 100% 50%
-            }
-
-            100% {
-                background-position: 0 50%
-            }
-        }
-
-        @keyframes pulse_3011 {
-            0% {
-                transform: scale(.75);
-                box-shadow: 0 0 0 0 rgba(0, 0, 0, .7)
-            }
-
-            70% {
-                transform: scale(1);
-                box-shadow: 0 0 0 10px transparent
-            }
-
-            100% {
-                transform: scale(.75);
-                box-shadow: 0 0 0 0 transparent
-            }
-        }
-
-        .artikel {
-            text-align: justify;
-        }
-
-        .artikel p {
-            margin: 15px 10px;
-        }
-
-        .artikel a {
-            color: #ff0000;
-        }
-        
-        .artikel h1 {
-            color: #ff0000;
-            text-align: center;
-            
-        }
-
-        hr {
-            border: 1px solid #ff0000;
-        }
-
-        .artikel h2 {
-            color: #ff0000de;
-            text-align: center;
-        }
-
-        .block-img {
-            position: relative;
-            margin: auto;
-            min-width: 100px;
-            background: linear-gradient(0deg, #000, #272727);
-            color: #fff;
-            cursor: pointer;
-            margin-bottom: 20px;
-        }
-
-        /* BLOCK IMAGE GLOW (GREEN) */
-        .block-img:before,
-        .block-img:after {
-            content: '';
-            position: absolute;
-            right: -3px;
-            bottom: -3px;
-            /* Spektrum: Putih, Hijau Terang, Hijau Daun, Hijau Gelap */
-            background: linear-gradient(45deg, #f2e8ff, #b56cff, #7b2cff, #12051f, #ffffff);
-            background-size: 400%;
-            width: calc(100% + 6px);
-            height: calc(100% + 6px);
-            z-index: -1;
-            animation: steam 5s linear infinite;
-            border-radius: 5px;
-        }
-
-        /* BLOCK 1 (GREEN GRADIENT) */
-        .block1 {
-            position: relative;
-            margin: auto;
-            min-width: 100px;
-            padding: 10px 10px;
-            /* Gradasi Hijau Olive ke Hijau Sangat Gelap */
-            background: linear-gradient(0deg, #5b2aa8, #12051f);
-            color: #fff;
-            cursor: pointer;
-        }
-
-        .block1:before,
-        .block1:after {
-            content: '';
-            position: absolute;
-            right: -3px;
-            bottom: -3px;
-            /* Animasi Border Hijau Spektrum */
-            background: linear-gradient(45deg, #2a1147, #b56cff, #98CF98, #12051f, #ffffff);
-            background-size: 400%;
-            width: calc(100% + 6px);
-            height: calc(100% + 6px);
-            z-index: -1;
-            animation: steam 5s linear infinite;
-            border-radius: 10px;
-        }
-
-        /* BLOCK DEFAULT (GREEN STYLE) */
-        .block {
-            position: relative;
-            padding: 9px 10px;
-            /* Gradasi Hijau Daun ke Hijau Hutan */
-            background: linear-gradient(0deg, #7b2cff, #2a1147);
-            color: #fff;
-            cursor: pointer;
-            margin-bottom: 25px;
-            border-radius: 5px;
-        }
-
-        .block:before,
-        .block:after {
-            content: '';
-            position: absolute;
-            right: -3px;
-            bottom: -3px;
-            /* Animasi Border Hijau Lembut */
-            background: linear-gradient(45deg, #12051f, #b56cff, #5b2aa8, #2a1147, #ffffff);
-            background-size: 400%;
-            width: calc(100% + 6px);
-            height: calc(100% + 6px);
-            z-index: -1;
-            animation: steam 15s linear infinite;
-            border-radius: 7px;
-        }
-
-        @keyframes steam {
-            0% {
-                background-position: 0 0;
-            }
-
-            50% {
-                background-position: 400% 0;
-            }
-
-            100% {
-                background-position: 0 0;
-            }
-        }
-
-        .block:after {
-            filter: blur(50px);
-        }
-
-        .footer {
-            text-align: center;
-            margin: 15px 0;
-        }
-
-        .footer a {
-            color: #facf0e
-        }
-        *{
-        -webkit-user-select: none;
-        -khtml-user-select: none;
-        -moz-user-select: -moz-none;
-        -o-user-select: none;
-        user-select: none;
-    }
-    .site-description {
-            background-color: #5b2aa8;
-            padding: 1%;
-        }
-    .site-description {
-            background-color: #1b0b33
-        }
-
-    @media(max-width:575.98px) {
-            .download-apk-section amp-img {
-                width: 50px
-            }
-            .img amp-img{
-                max-width:180px;
-                display:block;
-                margin:0 auto;
-            }
-            .slot{
-                display:block;
-                margin:0 auto;
-                max-width:98%;
-            }
-            .slot .content{
-                float: none;
-                width: 100%;
-                padding: 0;
-                flex: 0 0 100%;
-                max-width: 100%;
-                background-color: #121212;
-                margin:0 auto;
-                align-self:center;
-                text-align:center;
-            }
-            .card{
-                display:inline-block;
-                width: 31%;
-                background: transparent;
-                border: none;
-                text-align: center;
-                position: relative;
-                padding:0.5%;
-            }
-        }
-        @media(max-width:575.98px) {
-            .slot{
-                display:block;
-                margin:0 auto;
-                max-width:98%;
-            }
-            .slot .content{
-                float: none;
-                width: 100%;
-                padding: 0;
-                flex: 0 0 100%;
-                max-width: 100%;
-                background-color: #121212;
-                margin:0 auto;
-                align-self:center;
-                text-align:center;
-            }
-            .card{
-                display:inline-block;
-                width: 48%;
-                background: transparent;
-                border: none;
-                text-align: center;
-                position: relative;
-                padding:0.5%;
-            }
-        }
-        @media(min-width:576px){
-            .card{
-                display:inline-block;
-                width: 23%;
-                background: transparent;
-                border: none;
-                text-align: center;
-                position: relative;
-                padding:0.5%;
-            }
-            .img{
-                display:block;
-                text-align:center;
-            }
-            .img amp-img{
-                max-width:250px;
-                display:block;
-                margin:0 auto;
-            }
-        }
-        </style>
+@media(max-width:500px){
+  .container{margin-top:78px;padding:6px}
+  .inside{border-radius:23px;padding:8px}
+  .centerbyv{border-radius:19px}
+  .eg,.eg-long,button.daftar{height:52px;font-size:16px;border-radius:15px}
+  .music-box{border-radius:16px}
+  .BOSANGKA{min-height:66px;padding:8px 10px;border-radius:17px}
+  .middle{font-size:12px;padding-left:16px}
+  .log{width:116px}
+  .copyright{font-size:13px;border-radius:16px}
+}
+</style>
 </head>
-
 <body>
-    <main>
-        
-        <div class="meme">
-            <div class="toto-togel-macau-BOSANGKA">
-                <br>
-            <img src="https://gambarbos.io/img/2026/agustus/25/logo.png" class="/" alt="BOSANGKA" width="250" height="85">
-                <br>
-                <div class="block-img">
-                    
-                    <a href="###" target="_blank" rel="noopener noreferrer nofollow">
-                        <amp-img height="900" width="900" layout="responsive" alt="Wahana Togel Terbaik" src="https://gambarbos.io/img/2026/agustus/25/bosangkapurple.webp"></amp-img>
-                    </a>
-                </div>
+<header>
+  <div class="mawar">
+    <a href=###">
+      <amp-img src="https://gambarbos.io/img/2026/agustus/25/logo.png"
+               width="280" height="60" alt="BOSANGKA ༄ Wahana Togel Online Resmi dengan Fitur & Akses Terkini">
+      </amp-img>
+    </a>
+  </div>
+</header>
 
-                <div class="slotbonus">
-                    <a href="https://cebol.me/tmrba" target="_blank" rel="noopener noreferrer nofollow">
-                        <button class="btn2"><strong>LINK ALTERNATIF</strong>
-                            <div id="container-stars">
-                                <div id="stars"></div>
-                            </div>
-                            <div id="glow">
-                                <div class="circle"></div>
-                                <div class="circle"></div>
-                            </div>
-                        </button>
-                    
-                    <a href="https://cebol.me/tmrba" target="_blank" rel="noopener noreferrer nofollow" class="block">LOGIN BOSANGKA</a>
-                    <a href="https://cebol.me/tmrba" target="_blank" rel="noopener noreferrer nofollow" class="block">DAFTAR BOSANGKA</a>
-                    <a href="https://cebol.me/tmrba" target="_blank" rel="noopener noreferrer nofollow" class="block">DOWNLOAD BOSANGKA</a>
-                    
-                    
-            </div> 
-        
+<div class="container">
+  <div class="inside">
 
-            </div>
-            
 
-            <div class="artikel">
+    <!-- BANNER 1x1 -->
+    <div class="centerbyv">
+      <a href="https://cebol.me/tmrba">
+        <amp-img src="https://gambarbos.io/img/2026/agustus/25/bosangkapurple.webp"
+                 width="500" height="500"
+                 layout="responsive"
+                 alt="BANNER - BOSANGKA ༄ Wahana Togel Online Resmi dengan Fitur & Akses Terkini">
+        </amp-img>
+      </a>
+    </div>
 
-                <h1>BOSANGKA ༄ Wahana Togel Online Resmi dengan Fitur & Akses Terkini</h1><br>
-                <hr>
-                <p>Bagi pengguna yang mencari wahana togel online dengan konsep modern dan akses yang praktis, <a href="###" style="color: rgb(255, 0, 0);">BOSANGKA</a> hadir sebagai platform yang mengutamakan kemudahan navigasi serta pembaruan fitur secara berkala. BOSANGKA dirancang dengan pendekatan yang lebih sederhana agar pengguna dapat menjelajahi berbagai informasi dan layanan melalui tampilan yang tertata, ringan, dan mudah dipahami di berbagai perangkat.</p>
+    <!-- TOMBOL UTAMA -->
+    <div class="server">
+      <div class="se">
+        <a href="https://cebol.me/tmrba" target="_blank" rel="noopener noreferrer">
+          <button class="eg">MASUK BOSANGKA</button>
+        </a>
+        <a href="https://cebol.me/tmrba" target="_blank" rel="noopener noreferrer">
+          <button class="eg">DAFTAR BOSANGKA</button>
+        </a>
+      </div>
+    </div>
 
-<p>Perkembangan platform digital membuat kebutuhan terhadap akses yang cepat dan nyaman semakin meningkat. Dalam hal ini, BOSANGKA menghadirkan pengalaman yang menggabungkan fitur-fitur terkini dengan sistem navigasi yang dirancang agar lebih praktis. Setiap bagian platform disusun secara terarah sehingga pengguna dapat menemukan informasi yang dibutuhkan tanpa harus melewati tampilan yang terlalu rumit.</p>
+    <div class="server-full">
+      <a href="https://cebol.me/tmrba" target="_blank" rel="noopener noreferrer">
+        <button class="eg eg-long">DOWNLOAD APK BOSANGKA</button>
+      </a>
+    </div>
 
-<p>Salah satu perhatian utama BOSANGKA adalah kemudahan akses melalui berbagai perangkat. Baik menggunakan smartphone, tablet, maupun komputer, tampilan platform disesuaikan agar tetap responsif dan nyaman digunakan. Pendekatan tersebut membuat BOSANGKA dapat menjadi wahana digital yang lebih fleksibel bagi pengguna yang ingin memperoleh informasi terbaru dengan cara yang sederhana.</p>
+    <!-- BOX LINK -->
+    <div class="BOSANGKA">
+      <div class="middle">RTP SLOT BOSANGKA</div>
+      <div class="log">
+        <a href="https://cebol.me/tmrba" rel="noopener noreferrer">
+          <button class="daftar">KLIK DISINI</button>
+        </a>
+      </div>
+    </div>
 
-<p>Selain aspek aksesibilitas, BOSANGKA juga mengembangkan fitur dengan konsep yang mengikuti kebutuhan pengguna masa kini. Penyajian menu, informasi, serta berbagai elemen pendukung dibuat lebih terstruktur sehingga memberikan pengalaman navigasi yang lebih efisien. Pembaruan fitur secara berkala juga menjadi bagian dari upaya menghadirkan platform yang tetap relevan dengan perkembangan teknologi digital.</p>
+    <div class="BOSANGKA">
+      <div class="middle">PREDIKSI TOGEL BOSANGKA</div>
+      <div class="log">
+        <a href="https://cebol.me/tmrba" rel="noopener noreferrer">
+          <button class="daftar">KLIK DISINI</button>
+        </a>
+      </div>
+    </div>
 
-<p>Keunggulan lain BOSANGKA terlihat dari cara informasi disajikan secara lebih rapi dan mudah dipahami. Pengguna dapat menemukan berbagai pembaruan dalam satu tampilan tanpa harus menghadapi susunan halaman yang membingungkan. Dengan konsep tersebut, BOSANGKA berusaha menciptakan pengalaman digital yang mengutamakan kejelasan, kenyamanan, dan kemudahan akses.</p>
+    <div class="BOSANGKA">
+      <div class="middle">LIVE CHAT BOSANGKA</div>
+      <div class="log">
+        <a href="https://cebol.me/tmrba" rel="noopener noreferrer">
+          <button class="daftar">KLIK DISINI</button>
+        </a>
+      </div>
+    </div>
 
-<p>Konsep <a href="###" style="color: rgb(255, 0, 0);">wahana togel online</a> yang diusung BOSANGKA juga diperkuat melalui kombinasi antara tampilan modern dan fitur yang terus dikembangkan. Alih-alih hanya mengandalkan satu fungsi, platform ini menempatkan akses informasi dan kemudahan navigasi sebagai bagian penting dari keseluruhan pengalaman pengguna. Hal tersebut membuat BOSANGKA memiliki karakter yang berbeda dari platform dengan tampilan konvensional.</p>
+          <div style="text-align:center; margin:15px 0 15px; color:#fff; padding:14px 14px; border:2px solid #d7a2ff; border-radius:18px; background:linear-gradient(145deg,#6f19b5,#31005b); box-shadow:0 7px 0 rgba(30,0,50,.45),0 12px 24px rgba(18,0,31,.28),inset 0 2px 0 rgba(255,255,255,.18);">
+      <h2 style="font-size:18px; line-height:1.4; margin:0 0 10px; color:#fff; text-shadow:0 2px 0 #3b075c,0 0 10px rgba(255,255,255,.18);">
+        BOSANGKA menghadirkan wahana togel online dengan fitur modern dan akses terkini. Temukan informasi lengkap, navigasi praktis, serta pembaruan layanan dalam satu platform.
+      </h2>
+      
+    </div>
 
-<p>Seiring kebutuhan terhadap layanan digital yang semakin dinamis, akses terkini menjadi salah satu aspek yang tidak dapat diabaikan. BOSANGKA berupaya menjaga pengalaman tersebut melalui pembaruan informasi dan pengembangan fitur yang dilakukan secara berkelanjutan. Dengan demikian, pengguna dapat menikmati tampilan platform yang tetap relevan sekaligus mudah diakses melalui perangkat yang digunakan.</p>
+<div style="width:100%; display:flex; justify-content:center; align-items:center; text-align:center;">
+  <strong style="display:block; font-size:14px; line-height:1.6; color:#fff;">
+   © Copyright 2026 BOSANGKA ❌ ELCABALLO
+  </strong>
+</div>
 
-<p>Secara keseluruhan, <a href="###" style="color: rgb(255, 0, 0);">BOSANGKA</a> merupakan wahana togel online yang mengedepankan perpaduan antara fitur modern, akses terkini, dan navigasi praktis. Dengan struktur platform yang responsif serta pembaruan yang berkelanjutan, BOSANGKA menghadirkan pengalaman digital yang lebih tertata bagi pengguna yang menginginkan akses informasi melalui satu platform dengan konsep yang modern dan mudah digunakan.</p>
-            </div>
-
-        </div>
-
-        
-        <div class="footer">
-            &copy; ELCABALLO | <a href="###">BOSANGKA</a> 
-        </div>
-
-    </main>
+</div>
+</div>
 </body>
 </html>
